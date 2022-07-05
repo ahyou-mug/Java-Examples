@@ -35,7 +35,7 @@ public class Main {
 		scanner.close();
 	}
 	
-}
+}C:\Users\Local user\git\Java-Examples\.git
 
 	
 
